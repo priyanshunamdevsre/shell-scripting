@@ -1,0 +1,20 @@
+--------------------------
+./automate_health_check.sh: line 14: DATE: unbound variable
+--------------------------
+Check apache service
+Apache is running.
+Check MariaDB service
+MariaDB is running.
+
+--------------------------
+Check apache service
+Apache is running.
+Check MariaDB service
+MariaDB is running.
+
+--------------------------
+Check apache service
+Apache is running.
+Check MariaDB service
+MariaDB is running.
+
