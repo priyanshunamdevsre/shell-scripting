@@ -12,9 +12,7 @@ mkdir -p "$LOG_DIR"
 {
 	echo "--------------------------" 
 	echo "Run Time : $DATE"
-
 	sh /home/ubuntu/Documents/shell-scripting/3-tier-application-automation-backup/health_check_service.sh
-	
-
 	echo "" 
+
 } >> "$LOG_FILE" 2>&1
